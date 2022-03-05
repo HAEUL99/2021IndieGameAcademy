@@ -20,7 +20,7 @@
 
 ## 시나리오 스토리 표 링크
 https://gitmind.com/app/doc/ddc7058719
-- 개발 기간이 짧았던 만큼 전체 구현은 하지 못함.
+- 전체 구현은 하지 못함.
 
 ## 세부 ppt 자료
 https://drive.google.com/file/d/1d5vXzmlXvA93cN2Hj1pAzmP-ih7agf5q/view?usp=sharing
